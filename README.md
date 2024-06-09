@@ -1,1 +1,4 @@
-# Airline-Dataset-analysis-
+# Exploring Insights From Synthetic Airline Data Analysis With Qlik
+## Description- Exploring insights from synthetic airline data analysis with Qlik involves leveraging the powerful analytics capabilities of Qlik's data visualization and business intelligence tools to interpret and make strategic decisions based on generated airline data. This process includes examining various aspects such as flight patterns, passenger demographics, operational efficiency, and financial performance. By using synthetic data, which mimics real-world datasets while ensuring privacy and compliance, analysts can identify trends, forecast outcomes, and uncover hidden opportunities within the airline industry, all facilitated by Qlik's interactive dashboards and advanced data processing techniques.
+### Dataset Link- **https://drive.google.com/file/d/1VweGFFF8iqJ7uUsY-aeE7-RN-Ivh8plQ/view?usp=sharing**
+### Project Demonstration link-**https://drive.google.com/file/d/1FFScv3Mr6sOsYQ2TF7KXc1S4YE0CT1SM/view?usp=sharing**
